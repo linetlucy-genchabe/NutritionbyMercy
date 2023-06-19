@@ -3,3 +3,12 @@ h1 {
     color: rgb(30, 210, 69);
     font-family: 'pacifico', cursive;
 }
+
+.col-md-3 {
+    background-color: rgb(244, 254, 59);
+    box-shadow: 20px 20px 1px 2px rgb(81, 252, 55);
+    font-size: 35px;
+    margin: 35px;
+    padding: 20px;
+    text-align: center;
+}
